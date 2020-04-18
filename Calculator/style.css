@@ -1,0 +1,29 @@
+table {
+    background-color: #CCCCCC;
+}
+
+table tr td {
+    
+    border: 1px solid #AAAAAA;
+}
+
+th {
+    column-span: 3;
+    
+}
+
+td{
+    width: 20px;
+    height: 20px;
+    text-align: center;
+}
+
+td:hover{
+    background-color: #EEEEEE;
+}
+
+textarea{
+    resize: none;
+    text-align: right;
+    height: 20px;
+}
