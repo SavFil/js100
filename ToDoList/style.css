@@ -1,0 +1,21 @@
+#container {
+  width: 50%;
+  height: 50%;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center; 
+  background-color: coral;
+  border: 20px solid chocolate;
+  
+}
+table {
+  position: fixed;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+
+
+
