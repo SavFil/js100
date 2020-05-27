@@ -1,2 +1,3 @@
 # js100
-A js project every day for 100 days, challenge
+ 100 days - 100 projects in javascript
+Work in progress. One of my biggest issues with this challenge is to find interesting and unique small projects.
